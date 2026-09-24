@@ -12,3 +12,9 @@ __pycache__/
 # ML models
 *.safetensors
 *.pkl
+
+# Secrets — never commit
+.env
+secrets.toml
+.streamlit/secrets.toml
+venv/

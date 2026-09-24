@@ -1,0 +1,10 @@
+.git
+.env
+**/secrets.toml
+__pycache__/
+*.pyc
+venv/
+frontend/
+jupyter notebooks/
+ml model/
+*.ipynb
